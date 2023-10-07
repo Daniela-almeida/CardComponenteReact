@@ -1,4 +1,4 @@
-import posterImg from "../../../../componente-card/src/assets/stars-wars.jpg";
+import posterImg from "../../assets/stars-wars.jpg";
 import styles from "./styles.module.css";
 
 export default function Card() {
